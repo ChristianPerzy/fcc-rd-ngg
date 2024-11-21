@@ -1,2 +1,11 @@
 .DS_Store
 node_modules
+CHANGELOG.md
+coderoad.yaml
+.freeCodeCamp
+.gitpod.yml
+tutorial.json
+TUTORIAL.md
+.vscode
+number_guessing_game
+
